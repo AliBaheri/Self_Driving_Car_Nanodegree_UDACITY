@@ -35,5 +35,5 @@ My pipeline is not robust with "challeng" task. I am still trying to find a syst
 
 ### 3. Suggest possible improvements to your pipeline
 
-One possible improvement for the current pipeline is modifying the region of interest. My plan is to write a function to find ROE in a systematic fashion. 
+One possible improvement for the current pipeline is modifying the region of interest (ROE). My plan is to write a function to find ROE in a systematic fashion. 
 
